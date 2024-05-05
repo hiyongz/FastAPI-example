@@ -1,0 +1,7 @@
+fastapi==0.111.0
+fastapi_pagination==0.12.24
+loguru==0.7.2
+pydantic==2.7.1
+starlette==0.37.2
+tortoise==0.1.1
+~vicorn==0.11.5
